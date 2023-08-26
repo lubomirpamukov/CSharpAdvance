@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\CSharpAdvance\01. Reverse a string\bin\Debug\net6.0\01. Reverse a string.exe
+C:\Users\Admin\source\repos\CSharpAdvance\01. Reverse a string\bin\Debug\net6.0\01. Reverse a string.deps.json
+C:\Users\Admin\source\repos\CSharpAdvance\01. Reverse a string\bin\Debug\net6.0\01. Reverse a string.runtimeconfig.json
+C:\Users\Admin\source\repos\CSharpAdvance\01. Reverse a string\bin\Debug\net6.0\01. Reverse a string.dll
+C:\Users\Admin\source\repos\CSharpAdvance\01. Reverse a string\bin\Debug\net6.0\01. Reverse a string.pdb
+C:\Users\Admin\source\repos\CSharpAdvance\01. Reverse a string\obj\Debug\net6.0\01. Reverse a string.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CSharpAdvance\01. Reverse a string\obj\Debug\net6.0\01. Reverse a string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CSharpAdvance\01. Reverse a string\obj\Debug\net6.0\01. Reverse a string.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CSharpAdvance\01. Reverse a string\obj\Debug\net6.0\01. Reverse a string.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CSharpAdvance\01. Reverse a string\obj\Debug\net6.0\01. Reverse a string.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CSharpAdvance\01. Reverse a string\obj\Debug\net6.0\01. Reverse a string.dll
+C:\Users\Admin\source\repos\CSharpAdvance\01. Reverse a string\obj\Debug\net6.0\refint\01. Reverse a string.dll
+C:\Users\Admin\source\repos\CSharpAdvance\01. Reverse a string\obj\Debug\net6.0\01. Reverse a string.pdb
+C:\Users\Admin\source\repos\CSharpAdvance\01. Reverse a string\obj\Debug\net6.0\01. Reverse a string.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CSharpAdvance\01. Reverse a string\obj\Debug\net6.0\ref\01. Reverse a string.dll
