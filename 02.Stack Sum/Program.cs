@@ -42,7 +42,7 @@
             }
 
             Console.WriteLine($"Sum: {intStack.Sum()}");
-            Console.WriteLine();
+            Console.ReadKey();
         }
     }
 }
