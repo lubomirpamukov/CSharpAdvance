@@ -7,6 +7,7 @@
             char[] input = Console.ReadLine().ToArray();
             Stack<char> stack = new Stack<char>();
 
+            
             foreach (char c in input)
             {
                 stack.Push(c);
