@@ -33,7 +33,6 @@
 
             //print "{number of cars} cars passed the crossroads.".
             Console.WriteLine($"{carsPassedCounter} cars passed the crossroads.");
-            Console.ReadLine();
         }
     }
 }
