@@ -16,12 +16,11 @@
                 else if (input[i] == ')')
                 {
                     int startIndex = openingBracket.Pop();
-                    int closingBracket = i;
-                    string subString = input.Substring(startIndex, closingBracket - startIndex);
+                    int endIndex = i;
+                    string subString = input.Substring(startIndex, endIndex - startIndex+1);
                     Console.WriteLine(subString);
                 }
             }
-                Console.ReadKey();
         }
     }
 }
